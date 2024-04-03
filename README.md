@@ -9,3 +9,5 @@
 Cree formularios de 
 ABM Productos
 ABM Clientes
+-- No logre conectarme desde VS a Oracle de igual forma hay metodos preparados para consumir de oracle en los ABM
+-- las capturas adjunto sin recortarlas debido a que no tuve tiempo
